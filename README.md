@@ -4,4 +4,4 @@ Laser Defender kind of game.
 
 Took inspiration in Dragon Ball and also added many other of my own twists.
 
-Download the rar file to play!
+Download the zip file to play!
