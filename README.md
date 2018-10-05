@@ -1,4 +1,4 @@
-Bad Guy's Revenge
+# Bad Guy's Revenge :video_game:
 
 Laser Defender kind of game.
 
