@@ -9,4 +9,8 @@ The objective is to reach for the highest score.
 
 Took inspiration in Dragon Ball :dragon::basketball: and also added many other of my own twists.
 
+### Technologies
+* C#
+* Unity
+
 #### Download the zip file to play!
