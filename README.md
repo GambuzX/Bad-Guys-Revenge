@@ -14,8 +14,8 @@ Took inspiration in Dragon Ball :dragon::basketball: and also added many other o
 * Unity
 
 ### Screenshots
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Menu")
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Gameplay")
+![Game Menu](https://github.com/GambuzX/Bad-Guy-s-Revenge/raw/master/screenshots/bad_guys_revenge_menu.jpg "Menu")
+![Gameplay](https://github.com/GambuzX/Bad-Guy-s-Revenge/raw/master/screenshots/bad_guys_revenge.jpg "Gameplay")
 
 #### Download the zip file to play! 
 Recommend to try it in 1920x1080 resolution
