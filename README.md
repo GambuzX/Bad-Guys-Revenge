@@ -18,4 +18,4 @@ Took inspiration in Dragon Ball :dragon::basketball: and also added many other o
 ![Gameplay](https://github.com/GambuzX/Bad-Guy-s-Revenge/raw/master/screenshots/bad_guys_revenge.jpg "Gameplay")
 
 #### Download the zip file to play! 
-Recommend to try it in 1920x1080 resolution
+Best played in 1920x1080 resolution.
