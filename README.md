@@ -13,5 +13,9 @@ Took inspiration in Dragon Ball :dragon::basketball: and also added many other o
 * C#
 * Unity
 
+### Screenshots
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Menu")
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Gameplay")
+
 #### Download the zip file to play! 
 Recommend to try it in 1920x1080 resolution
