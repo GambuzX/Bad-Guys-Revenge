@@ -13,4 +13,5 @@ Took inspiration in Dragon Ball :dragon::basketball: and also added many other o
 * C#
 * Unity
 
-#### Download the zip file to play!
+#### Download the zip file to play! 
+Recommend to try it in 1920x1080 resolution
